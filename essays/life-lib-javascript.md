@@ -9,7 +9,6 @@ labels:
   - Learning
 ---
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-programming-source-code-portable-network-7276632%2F&psig=AOvVaw1sefNWXyJe6nDEGl1thgcJ&ust=1642751812872000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMj6jcbtv_UCFQAAAAAdAAAAABAD)
 
 ### Filet Mignon of Code
 After being exposed to Javascript for about a week or two, I would choose to describe it as Java’s spoiled younger brother.  As a student who had only used Java prior to learning Javascript, I feel as if Javascript is just a better, beefed up version of Java. If Java is a bottom sirloin steak, then Javascript would be a filet mignon or a ribeye. Javascript was fairly easy to understand with some prior knowledge of programming. One of the biggest differences between Java and Javascript is the declaration of variable types. There is none of that in Javascript! You just declare a variable name and assign it whatever value you want. Compared to Java where you would have to declare what type of value that variable would be, like an int or a string for example. This feature seems very convenient for a programmer but could also be confusing for someone else reading your code. With that being said, I do believe that Javascript is a great language to use and develop in. After doing an introduction course on the language, I quickly grew to like it and found it very “user friendly”.
