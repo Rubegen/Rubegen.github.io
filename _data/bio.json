@@ -2,10 +2,10 @@
   "basics": {
     "name": "Ruben Jacobo",
     "label": "Student",
-    "picture": "https://rubegen.github.io/images/croppedHeadshot.png",
+    "picture": "https://Rubegen.github.io/images/croppedHeadshot.png",
     "email": "rjacobo@hawaii.edu",
     "phone": "808-636-9448",
-    "website": "https://rubegen.github.io",
+    "website": "https://Rubegen.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "rubegen",
+        "username": "Rubegen",
         "url": "http://github.com/rubegen"
       },
       {
