@@ -8,11 +8,10 @@ permalink: projects/vacay
 date: 2021-03-15
 labels:
   - Java
-  - EclipseIDE
+  - Eclipse
   - Recursion
 summary: A program that uses recursion and brute force algorithms to solve any sudoku puzzle.
 ---
-
  <img class="ui image" src="../images/math-calc.jpg">
 
 ## Faster than you
