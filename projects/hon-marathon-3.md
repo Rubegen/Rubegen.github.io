@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/virt-marathon2.png
+image: images/marathon-pic.jpg
 title: Honolulu Marathon 2012
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
