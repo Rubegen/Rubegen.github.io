@@ -13,7 +13,9 @@ labels:
 summary: A program that uses recursion and brute force algorithms to solve any sudoku puzzle.
 ---
 
-## Faster than youu
+ <img class="ui image" src="../images/math-calc.jpg">
+
+## Faster than you
 
 Sudoku Solver was a program that I designed in my second semester of programming. In my ICS 211 class I became more familiar with the concept of recursion and algorithms. This project really solidified my understanding of recursive programming and allowed me to put it into practice. The program is as it sounds. It takes a sudoku puzzle of any difficulty, and uses various methods, some of them being recursive, to find a solution to the puzzle. Testing every possible outcome and filling out as much as possible, then backtracking if necessary is the name of the game for this program. 
 
