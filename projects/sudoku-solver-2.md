@@ -5,7 +5,7 @@ image: images/sudoku-image.png
 title: Sudoku Solver using Recursion
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2021-3-15
+date: 2021-03-15
 labels:
   - Java
   - EclipseIDE
