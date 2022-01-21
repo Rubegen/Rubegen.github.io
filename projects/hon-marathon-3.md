@@ -19,7 +19,3 @@ In 2012, my soccer team and I volunteered at the Honolulu Marathon for that year
 
 The team of four that I was assigned to originally helped set up tents and signs across the course, but later we were put on water duty. We were in charge of handing out the water to the oncoming runners during the marathon. Such a big project with hundreds of volunteers was hectic to say the least. Thankfully for us, there were great leaders in charge of assigning everyone a duty and ensuring that it was carried out. After this long morning, I learned a lot of valuable lessons. I learned that difficult, intimidating tasks are far more achievable with the help of a team. A monumental task can be conquered with a monumental team. I learned the importance of cooperation and effective communication. On that morning, we had to be very clear and concise with our words because things would likely be misheard in such a hectic environment.
 
-
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
