@@ -9,53 +9,20 @@ date: 2014-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: Volunteer project at Honolulu Marathon 2012
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## Early Morning Zombies
 
-To give you a flavor of the game, here is an excerpt from one run:
+In 2012, my soccer team and I volunteered at the Honolulu Marathon for that year. This was an amazing experience where I was able to bond with my teammates and help my community at the same time. The manager of my soccer team, “Abunai” suggested we help out the community in some way. Volunteering at the Honolulu Marathon seemed like the perfect choice because we were all avid runners and we had the opportunity to be surrounded by other runners and other volunteers. The team was composed of twenty players, four coaches, and one manager. We all agreed to volunteer on that early morning of 2012. In order to help out with setting up the marathon, we had to wake up at 3am. My team and I were there by around 3:45 AM and we split up into groups of four where we either prepared water for the runners or helped set up tents and posters around the course. 
 
-<hr>
+## Monumental Team
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+The team of four that I was assigned to originally helped set up tents and signs across the course, but later we were put on water duty. We were in charge of handing out the water to the oncoming runners during the marathon. Such a big project with hundreds of volunteers was hectic to say the least. Thankfully for us, there were great leaders in charge of assigning everyone a duty and ensuring that it was carried out. After this long morning, I learned a lot of valuable lessons. I learned that difficult, intimidating tasks are far more achievable with the help of a team. A monumental task can be conquered with a monumental team. I learned the importance of cooperation and effective communication. On that morning, we had to be very clear and concise with our words because things would likely be misheard in such a hectic environment.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
