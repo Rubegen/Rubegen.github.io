@@ -14,10 +14,8 @@ summary: I developed a Java program that utilizes graphics to play inverse tic t
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/tictactoe.jpg">
+ 
 </div>
 
 Inverse Tic Tac Toe was my first real project as a computer science student. I set out after my first semester of coding in Java, to create a simple game with my newfound knowledge. I decided on a game like tic tac toe because it was simple and widely known. However, normal tic tac toe was too simple and had already been done many times before me. Inverse tic tac toe was a way to add a little twist to an already popular game. Inverse tic tac toe is a game where instead of trying to connect three consecutive X’s or O’s, you are trying to force your opponent to do so before you. If a player happens to connect three consecutive squares across the board, they will LOSE in a game of inverse tic tac toe. Hence the “inverse” part of the name.
