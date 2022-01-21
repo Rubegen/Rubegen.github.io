@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Ftypes-of-artificial-intelligence%2F&psig=AOvVaw3tGO4qhafzjnzh4fYXc99u&ust=1642811129558000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCICsxsLKwfUCFQAAAAAdAAAAABAD)
+<img class="ui image" src=".../image/<Ai-image.jpg>">
 
 ## Switch (majors)
 
