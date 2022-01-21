@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teahub.io%2Fviewwp%2FTTxibJ_ai-in-healthcare-artificial-intelligence-ai%2F&psig=AOvVaw1BisIJzv9UoNi5Gc65jXTG&ust=1642810927510000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiGquPJwfUCFQAAAAAdAAAAABAD)
+![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Ftypes-of-artificial-intelligence%2F&psig=AOvVaw3tGO4qhafzjnzh4fYXc99u&ust=1642811129558000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCICsxsLKwfUCFQAAAAAdAAAAABAD)
 
 ## Switch (majors)
 
