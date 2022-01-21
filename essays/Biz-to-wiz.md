@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-<img class="ui image" src=".../image/AI-image.jpg.jpeg">
+<img class="ui image" src=".../image/AI-image.jpg">
 
 ## Switch (majors)
 
