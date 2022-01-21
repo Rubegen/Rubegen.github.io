@@ -10,6 +10,7 @@ labels:
 summary: Volunteer project at Honolulu Marathon 2012
 ---
 
+ <img class="ui image" src="../images/marathon-runner.jpg">
 
 ## Early Morning Zombies
 
