@@ -7,8 +7,6 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
 summary: Volunteer project at Honolulu Marathon 2012
 ---
 
