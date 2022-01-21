@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Sudoku Solver using Recursion
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-3-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - EclipseIDE
+  - Recursion
+summary: A program that uses recursion and brute force algorithms to solve any sudoku puzzle.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Sudoku Solver was a program that I designed in my second semester of programming. In my ICS 211 class I became more familiar with the concept of recursion and algorithms. This project really solidified my understanding of recursive programming and allowed me to put it into practice. The program is as it sounds. It takes a sudoku puzzle of any difficulty, and uses various methods, some of them being recursive, to find a solution to the puzzle. Testing every possible outcome and filling out as much as possible, then backtracking if necessary is the name of the game for this program. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project was tough to build because of the recursive component. With my limited knowledge of programming and of recursion, it had its challenges but I was able to create a program that solves any sudoku puzzle far faster than any human would be able to! I was the sole member of this project but I learned to use many different resources in order to solve small problems in my code. For example Youtube and StackOverflow were huge helps on my path to completing this project. Upon completion of my Sudoku Solver program, I can confidently say that my understanding of the concept of recursion improved greatly.  
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
