@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/honolulu-mar.jpg
-title: Cotton
+title: Honolulu Marathon 2012
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
@@ -12,7 +12,6 @@ labels:
 summary: Volunteer project at Honolulu Marathon 2012
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 ## Early Morning Zombies
 
