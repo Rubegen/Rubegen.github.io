@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tic-tac-cover.png
 title: Inverse Tic Tac Toe
-permalink: projects/micromouse
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-29
 labels:
