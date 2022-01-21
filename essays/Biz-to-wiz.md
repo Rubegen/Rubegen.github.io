@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.documentarytube.com%2Farticles%2Fa-few-words-about-artificial-intelligence-what-is-it&psig=AOvVaw0YS9v8C8A-c8vyMUAH0CjW&ust=1642810655181000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODequTIwfUCFQAAAAAdAAAAABAD)
+![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teahub.io%2Fviewwp%2FTTxibJ_ai-in-healthcare-artificial-intelligence-ai%2F&psig=AOvVaw1BisIJzv9UoNi5Gc65jXTG&ust=1642810927510000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiGquPJwfUCFQAAAAAdAAAAABAD)
 
 ## Switch (majors)
 
