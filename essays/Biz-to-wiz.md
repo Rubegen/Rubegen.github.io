@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+![AI imgage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.documentarytube.com%2Farticles%2Fa-few-words-about-artificial-intelligence-what-is-it&psig=AOvVaw0YS9v8C8A-c8vyMUAH0CjW&ust=1642810655181000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODequTIwfUCFQAAAAAdAAAAABAD)
 
 ## Switch (majors)
 
