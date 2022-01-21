@@ -5,7 +5,7 @@ image: images/mar-hon.jpg
 title: Honolulu Marathon 2012
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2014-12-12
 labels:
 summary: Volunteer project at Honolulu Marathon 2012
 ---
