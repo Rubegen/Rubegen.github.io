@@ -10,7 +10,7 @@ labels:
   - smart questions
 ---
 
-<img class="ui medium left floated image" src="../images/AI-image.jpg">
+<img class="ui medium left floated image" src="../images/smartquestions.jpg">
 
 ## Through the eyes of a child
 
