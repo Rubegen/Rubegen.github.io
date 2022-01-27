@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title:  From Biz to tech wiz 
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-20
+date: 2021-01-26
 labels:
   - Engineering
 ---
