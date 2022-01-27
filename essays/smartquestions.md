@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  From Biz to tech wiz 
+title:  Ask and you may or may not receive 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-26
 labels:
