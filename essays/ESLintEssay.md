@@ -17,12 +17,12 @@ labels:
 
 ## Knight in Linty armor
 
-<img class="ui small left floated image" src="../images/knight.jpg">
+<img class="ui tiny left floated image" src="../images/knight.jpg">
 
 It should be of interest to you to write code that both completes its task and is easy to read and understand. Hideous, grubby lines of code will not be easy for someone to read or interpret. This is where our knight in shining armor, ESLint, comes into play. ESLint will not falter. It will find the smallest style errors and bring them to your attention with a bright red mark on your screen. Sure it can be annoying sometimes, but with the help of this tool, your code can be beautiful and aesthetically pleasing as all things should be! After the input of ESLint, just about anyone should be able to effectively read and understand your code. Some might say that the readability of one's code from an outside perspective is a bit trivial and useless, but I would strongly disagree. Using ESLint or any other coding standard tool may be useless when working on a personal project, but this is not the case for large scale projects. In the work environment, when collaborating with others to build a large scale project, coding standards are exceedingly important. Imagine the inefficiency of two or more programmers with different coding standards trying to collaborate on a single project. It would be like trying to cut your lawn with mustache scissors. By the time one programmer reads through and interprets the code of another, his workday is over and he has to wait until tomorrow to make any changes. 
 
 ## Pearly Whites
 
-<img class="ui small right floated image" src="../images/spongebob.png">
+<img class="ui tiny right floated image" src="../images/spongebob.png">
 
 After one week of using ESLint, I can already appreciate the utility. The structure of my code has improved greatly and I find myself correcting spacing and indentation errors even when ESLint is disabled! Although the pursuit of the green checkmark at the top right corner of my file can be inconvenient at times, it is ultimately for the greater good. Getting up in the morning and brushing your teeth can be an inconvenient task at times, but it must be done if you want a bright smile. I want my code to be pearly white and that is why I will continue chasing that green.  
