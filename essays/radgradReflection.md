@@ -23,3 +23,12 @@ Structure is key for success. If there's any idea that has been solidified in my
 
 Similarly to marathon running, software development is not an easy mission. After going through the RadGrad New user tutorial I have discovered a structure that I can follow to convert the monumental task of becoming a software developer, into smaller bite size missions and experiences. I discovered new opportunities for classes and extracurricular activities that I had not known before. Classes like programming artificial intelligence and machine learning were things that sparked my interest and I had not known that my university offered these courses. Extracurricular activities like the AT&T hackathon and the cybersecurity event are also interesting activities outside of school that I could get involved in to further my career. In the RadGrad program, I was able to rearrange my schedule for each semester of university and plan ahead as to what courses, extracurriculars, and internships I would plan on taking. This was extremely useful. Having every activity or course that interested me laid out by semester was awesome. I was free to manipulate each activity as I pleased and this gave me the opportunity to spread out my tasks evenly across the next two years of college. RadGrad was able to break down the process of finding interests, courses, and extracurriculars and make it easily digestible and manageable. 
 
+
+
+
+
+
+
+
+
+
