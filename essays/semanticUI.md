@@ -11,7 +11,7 @@ labels:
 ---
 
 
-## Raw Doggin the Front-end
+## Don't go raw on the Front-end
 
 <img class="ui medium right floated image" src="/images/sportcar.jpg">
 
