@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  Structural Integrity
+title: Semantic Antics
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-24
 labels:
