@@ -55,7 +55,10 @@ Form to fill out following the shema for the type added
 Use of multiple custom label (semantic ui react dropdown)
 
 ## Use case ideas
-
+Home landing page
+"Suggested" destination page where destinations with good ratings are featured
+User home page where the users' frequently visited spots are presented along with the user's personal rating of that place
+Admin home page
 
 
 ## Beyond the Basics
