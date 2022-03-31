@@ -16,53 +16,61 @@ The problem: Many students come to the University of Hawaii for both the outstan
 
 The solution: This application will solve this problem by providing a hub for students in search of fun experiences or memorable locations. Hawaii is well known for being a tourist destination and there are many good restaurants and sites to visit. The application will provide destination ideas along with reviews, for users to find a place they are interested in.
 
-Site seeing (not touristy)
-Location
-Reviews
-Activities
-Beaches
-How not to act → etiquette (for sake of locals and land)
-Pick up ʻōpala (trash)
-Respect animals and land such as monk seals, turtles, and native plants
-Have respect for the culture and language 
-Landing page could provide useful info to help out of state / foreign students about Hawaii and its values.
+<ul>
+  <li>Site seeing (not touristy)</li>
+<li>Location </li>
+<li>Reviews </li>
+<li>Activities </li>
+<li>Beaches </li>
+<li>How not to act → etiquette (for sake of locals and land) </li>
+<li>Pick up ʻōpala (trash) </li>
+<li>Respect animals and land such as monk seals, turtles, and native plants </li>
+<li>Have respect for the culture and language </li>
+<li>Landing page could provide useful info to help out of state / foreign students about Hawaii and its values. </li>
+  </ul>
 
 ## Mockup page ideas
-Nav Bar (Home, Top Spots, Beaches / Hikes, Activities, Add Location)
-Log In (catered towards UH students and staff)
-When logged in changes to Log Out (semantic ui react dropdown)
-Your profile / Settings / Help / Sign Out
-Home page 
-Description - purpose of site
-List of Top 3 of Activities and Spots displaying reviews and likes,
-Top Spots
-Cards with an image, address, description, and like button?
-When cards are clicked a page with the respective location is shown with all of the previous info along with reviews
-Beaches / Hikes
-Cards with an image, address, short description, and like button?
-Links to 
-When cards are clicked a page with the respective location is shown with all of the previous info along with reviews
-Beach / Hike essentials
-Courteous behavior (trash, mindful of nearby residences, distance from animals)
-Information about different native plants and animals seen at respective locations
-Activities
-Cards with an image, address, description, reviews, and like button?
-Clean ups (beach and land)
-Volunteer work on and off campus
-Add Location / Activity
-Must undergo some sort of filtering before being added to the site
-Form to fill out following the shema for the type added
-Use of multiple custom label (semantic ui react dropdown)
+<ul>
+<li>Nav Bar (Home, Top Spots, Beaches / Hikes, Activities, Add Location)</li>
+<li>Log In (catered towards UH students and staff)</li>
+<li>When logged in changes to Log Out (semantic ui react dropdown)</li>
+<li>Your profile / Settings / Help / Sign Out</li>
+<li>Home page </li>
+<li>Description - purpose of site</li>
+<li>List of Top 3 of Activities and Spots displaying reviews and likes,</li>
+<li>Top Spots</li>
+<li>Cards with an image, address, description, and like button?</li>
+<li>When cards are clicked a page with the respective location is shown with all of the previous info along with reviews</li>
+<li>Beaches / Hikes</li>
+<li>Cards with an image, address, short description, and like button?</li>
+<li>Links to </li>
+<li>When cards are clicked a page with the respective location is shown with all of the previous info along with reviews</li>
+<li>Beach / Hike essentials</li>
+<li>Courteous behavior (trash, mindful of nearby residences, distance from animals)</li>
+<li>Information about different native plants and animals seen at respective locations</li>
+<li>Activities</li>
+<li>Cards with an image, address, description, reviews, and like button?</li>
+<li>Clean ups (beach and land)</li>
+<li>Volunteer work on and off campus</li>
+<li>Add Location / Activity</li>
+<li>Must undergo some sort of filtering before being added to the site</li>
+<li>Form to fill out following the shema for the type added</li>
+<li>Use of multiple custom label (semantic ui react dropdown)</li>
+  </ul>
 
 ## Use case ideas
-Home landing page
-"Suggested" destination page where destinations with good ratings are featured
-User home page where the users' frequently visited spots are presented along with the user's personal rating of that place
-Admin home page
+<ul>
+  <li>Home landing page</li>
+<li>"Suggested" destination page where destinations with good ratings are featured</li>
+<li>User home page where the users' frequently visited spots are presented along with the user's personal rating of that place</li>
+<li>Admin home page</li>
+  </ul>
 
 
 ## Beyond the Basics
-‘Like’ button, the more likes there is, the higher up it will be shown on the app. Based on daily engagement, the top spots change.
-Add GPS features for locations and directions.
-Multiple languages (Korean, Japanese, Spanish, Chinese)
-Search bar with filter feature, so that it caters more to what they want / looking for
+<ul>
+<li>‘Like’ button, the more likes there is, the higher up it will be shown on the app. Based on daily engagement, the top spots change.</li>
+<li>Add GPS features for locations and directions.</li>
+<li>Multiple languages (Korean, Japanese, Spanish, Chinese)</li>
+<li>Search bar with filter feature, so that it caters more to what they want / looking for</li>
+  </ul>
