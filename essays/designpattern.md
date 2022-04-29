@@ -24,7 +24,7 @@ Design patterns are solutions to general problems that developers face while dev
 
 
 
-<img class="ui left floated tiny image" src="https://www.azquotes.com/picture-quotes/quote-it-s-important-to-learn-from-your-mistakes-but-it-is-better-to-learn-from-other-people-jim-rohn-89-55-72.jpg">
+<img class="ui left floated medium image" src="https://www.azquotes.com/picture-quotes/quote-it-s-important-to-learn-from-your-mistakes-but-it-is-better-to-learn-from-other-people-jim-rohn-89-55-72.jpg">
   
   
 
