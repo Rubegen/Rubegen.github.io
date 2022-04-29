@@ -22,7 +22,7 @@ It accelerates your own success.” I appreciate this quote because I believe ev
 While there are exceptions to this as with everything in life, using the path that someone else has carved out as a stepping stone for your own success is an outstanding idea, and one that many people should explore. This is what design patterns are in software development.
 Design patterns are solutions to general problems that developers face while developing their software. Effective, tried and true solutions to common problems that any software developer will encounter. With design patterns, developers can use the work of others as a stepping stone to tackle their bigger problems. I myself have used design patterns in my own endeavors as a student. 
 
-<Image left floated tiny src="https://www.azquotes.com/picture-quotes/quote-it-s-important-to-learn-from-your-mistakes-but-it-is-better-to-learn-from-other-people-jim-rohn-89-55-72.jpg">
+<Image left floated size="tiny" src="https://www.azquotes.com/picture-quotes/quote-it-s-important-to-learn-from-your-mistakes-but-it-is-better-to-learn-from-other-people-jim-rohn-89-55-72.jpg">
 
 ## Implementing design patterns
 
