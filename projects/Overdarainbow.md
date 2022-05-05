@@ -5,14 +5,14 @@ image: images/overdarainbow_v2.png
 title: Over Da Rainbow Web application
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-02
+date: 2022-05-03
 labels:
   - Javascript
   - Intellij
   - Meteor
   - React
   - Web Application
-summary: A web application for University of Hawaii students and staff to find beautiful outdoor locations and activities to ease their mind from their education.
+summary: A web application for University of Hawaii students and staff to find beautiful outdoor locations and activities to soak up the sun.
 ---
  <img class="ui image" src="../images/landing.png">
  Landing Page that I designed with the help of my team.
