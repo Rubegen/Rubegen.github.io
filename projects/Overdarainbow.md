@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/landing-square.png
 title: Over Da Rainbow Web application
 permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
