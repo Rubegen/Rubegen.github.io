@@ -14,14 +14,20 @@ labels:
 summary: A web application for University of Hawaii students and staff to find beautiful outdoor locations and activities to soak up the sun.
 ---
  <img class="ui image" src="../images/landing.png">
- Landing Page that I designed with the help of my team.
+ 
+#### Landing Page that I designed with the help of my team.
 
 
 ## Touch Grass (Project Overview)
 
 Our Web application Over Da Rainbow tackles an emerging epidemic in a fun way. Our application can be used by students and staff in the University of Hawaii system who wish to explore the great outdoors. Going outside and getting your daily dose of Vitamin D is pivotal in mood and performance for all human beings. Most students would love to take a break from their assigments and enjoy the outside world for a while. The problem is that a large percentage of University of Hawaii students are not familiar with the beautiful locations and activities that Oahu has to offer. Over da Rainbow provies an easy to use application that allows anyone to find fun outdoor activities! Just make an account with your school email and gain access to all the insight we offer. Users can leave reviews at each location to advise future explorers! You can also use our bulletin page where users can coordinate upcoming events and leave comments to coordinate meets.
 
-<img class="ui medium left floated image" src="../images/hike-page.png">  <img class="ui medium right floated image" src="../images/review.png">
+
+
+<img class="ui large left floated image" src="../images/hike-page.png">  <img class="ui large right floated image" src="../images/review.png">.
+
+
+
 
 ## What I learned and Contributed
 
