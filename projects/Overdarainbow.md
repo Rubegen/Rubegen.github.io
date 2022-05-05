@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/overdarainbow_v2.png
 title: Over Da Rainbow Web application
-permalink: 
+permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-03
 labels:
