@@ -6,7 +6,7 @@
     "email": "rjacobo@hawaii.edu",
     "phone": "808-636-9448",
     "website": "https://Rubegen.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
     "location": {
       "address": "",
       "postalCode": "96782",
@@ -75,7 +75,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Fall, 2023)",
       "studyType": "B.S.",
       "startDate": "2020-08-07",
       "endDate": "Present",
