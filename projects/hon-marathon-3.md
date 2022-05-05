@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true
 image: images/newrunner.jpg
 title: Honolulu Marathon 2012
 permalink: projects/cotton
