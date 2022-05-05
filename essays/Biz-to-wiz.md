@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title:  From Biz to tech wiz 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-20
