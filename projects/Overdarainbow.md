@@ -24,7 +24,7 @@ Our Web application Over Da Rainbow tackles an emerging epidemic in a fun way. O
 
 
 
-<img class="ui large left floated image" src="../images/hike-page.png">  <img class="ui large right floated image" src="../images/review.png">.
+<img class="ui large right floated image" src="../images/hike-page.png">  <img class="ui large right floated image" src="../images/review.png">.
 
 
 
